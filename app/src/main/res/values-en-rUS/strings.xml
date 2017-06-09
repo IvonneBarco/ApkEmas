@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AppEmas</string>
+    <string name="username">User</string>
+    <string name="password">Password</string>
+    <string name="txt_login">Login</string>
+    <string name="txt_help">¿Don´t you have an account?,</string>
+    <string name="txt_link">Create Account</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="user">Usser</string>
+    <string name="passwordConfirm">Confirm Password</string>
+    <string name="txt_accept">Accept</string>
+    <string name="txt_title_toolbar">Create Account</string>
+    <string name="id_txt_username_cad">Andres Felipe</string>
+    <string name="str_tab_search">Search</string>
+    <string name="str_tab_home">Home</string>
+    <string name="str_tab_profile">Profile</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="txt_title_toolbar_Container">Transport SIT</string>
+    <string name="str_btn_profile_route">Rutas</string>
+    <string name="str_btn_profile_picks">Fotos</string>
+    <string name="txt_title_toolbar_profile">Profile</string>
+    <string name="str_profile_name">Ivonne</string>
+    <string name="str_profile_lastName">Barco</string>
+    <string name="str_profile_address">Crr 2 # 26 -14</string>
+    <string name="str_profile_txt_address">Address</string>
+    <string name="txt_field_vaccant">Empty Spaces</string>
+    <string name="txt_validation_login">Welcome</string>
+    <string name="txt_no_validation_login">User and Password incorrect</string>
+    <string name="txt_password_validation">Password does not match</string>
+    <string name="txt_succesfully_account">Account Successfully Created</string>
+    <string name="txt_sign_off">Closing Session</string>
+    <string name="btn_fragment_profile_sign_off">Sign off</string>
+    <string name="txt_title_toolbar_search">Search your route</string>
+    <string name="name_user">Pedro Campos</string>
+    <string name="str_profile_Info">SIT user, current residence in San Juan de Pasto in the neighborhood Panoramico</string>
+    <string name="info_profile2">PROFESSION OR OFFICE: Student of Systems Engineer at IU Cesmag</string>
+    <string name="str_profile_data">Personal information</string>
+    <string name="info_profile_born">DATE OF BIRTH: March 25, 1997</string>
+    <string name="info_profile_Route">ROUTE OF PREFERENCE: C15</string>
+    <string name="info_city">CITY OF ORIGIN: San Juan de Pasto</string>
+    <string name="info_profile_photo">Photos</string>
+    <string name="Ventana_search">Search</string>
+    <string name="Info_Search">GARBAGE COLLECTION</string>
+    <string name="txt_home_info">SIT system users</string>
+    <string name="info_profile_email">******</string>
+    <string name="str_fragment_profile_email">Email:</string>
+    <string name="str_itm_route">Route</string>
+    <string name="str_itm_neighborhood">Neighborhood</string>
+    <string name="txt_search_bus">Searching</string>
+    <string name="item_favorites_menu_desmarcar">Remove favorite</string>
+    <string name="item_favorites_menu_more_information"> More Bus Information </string>
+    <string name="str_itm_favorite_route">Route</string>
+    <string name="str_itm_favorite_neighborhood">Neighborhood</string>
+    <string name="txt_title_toolbar_Container_home">Favorites Routes</string>
+    <string name="txt_field_favorites">No Favorites</string>
+    <string name="txt_descart_favorite">The route has been discarded as a Favorite: </string>
+    <string name="txt_neighborhood_routes">Neighborhoods of the Route: </string>
+    <string name="txt_route_search">Route:</string>
+    <string name="txt_neighborhood_routes_search"> - Neighborhoods: </string>
+    <string name="txt_check_true"> Marked as Favorite </string>
+    <string name="txt_check_false"> Stop being Favorite </string>
+
+
+</resources>
