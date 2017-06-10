@@ -1,36 +1,22 @@
-package com.example.andresteran_i014213.projectofinal_sti.Views.Fragments;
+package com.example.ricardo_i028113.appemas.Views.Fragments;
 
 
 import android.content.Intent;
-import android.graphics.Bitmap;
-import android.graphics.BitmapFactory;
-import android.graphics.Canvas;
-import android.graphics.Paint;
-import android.graphics.Rect;
-import android.graphics.RectF;
-import android.graphics.drawable.BitmapDrawable;
-import android.graphics.drawable.Drawable;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
-import android.support.v4.graphics.drawable.RoundedBitmapDrawable;
-import android.support.v4.graphics.drawable.RoundedBitmapDrawableFactory;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.LayoutInflater;
-import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
-import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.example.andresteran_i014213.projectofinal_sti.Data.DataUser;
-import com.example.andresteran_i014213.projectofinal_sti.LoginActivity;
-import com.example.andresteran_i014213.projectofinal_sti.Models.User;
-import com.example.andresteran_i014213.projectofinal_sti.R;
-
-import org.w3c.dom.Text;
+import com.example.ricardo_i028113.appemas.Data.DataUser;
+import com.example.ricardo_i028113.appemas.LoginActivity;
+import com.example.ricardo_i028113.appemas.Models.User;
+import com.example.ricardo_i028113.appemas.R;;
 
 import java.util.List;
 

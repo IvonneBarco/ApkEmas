@@ -1,4 +1,4 @@
-package com.example.andresteran_i014213.projectofinal_sti.Models;
+package com.example.ricardo_i028113.appemas.Models;
 
 /**
  * Created by kenet on 29/05/2017.

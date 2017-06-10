@@ -1,4 +1,4 @@
-package com.example.andresteran_i014213.projectofinal_sti.Data;
+package com.example.ricardo_i028113.appemas.Data;
 
 import android.content.ContentValues;
 import android.content.Context;
@@ -6,10 +6,10 @@ import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 
-import com.example.andresteran_i014213.projectofinal_sti.Helper.HelperUser;
-import com.example.andresteran_i014213.projectofinal_sti.Models.Car;
-import com.example.andresteran_i014213.projectofinal_sti.Models.Favorites;
-import com.example.andresteran_i014213.projectofinal_sti.Models.User;
+import com.example.ricardo_i028113.appemas.Helper.HelperUser;
+import com.example.ricardo_i028113.appemas.Models.Car;
+import com.example.ricardo_i028113.appemas.Models.Favorites;
+import com.example.ricardo_i028113.appemas.Models.User;
 
 import java.util.ArrayList;
 import java.util.List;

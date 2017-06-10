@@ -6,7 +6,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.andresteran_i014213.projectofinal_sti.LoginActivity"
+    tools:context="com.example.ricardo_i028113.appemas.LoginActivity"
     android:background="@color/white">
 
     <LinearLayout

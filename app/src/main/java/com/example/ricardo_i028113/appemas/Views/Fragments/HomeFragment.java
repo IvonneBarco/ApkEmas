@@ -1,4 +1,4 @@
-package com.example.andresteran_i014213.projectofinal_sti.Views.Fragments;
+package com.example.ricardo_i028113.appemas.Views.Fragments;
 
 
 import android.app.Dialog;
@@ -24,11 +24,11 @@ import android.widget.AdapterView;
 import android.widget.ListView;
 import android.widget.Toast;
 
-import com.example.andresteran_i014213.projectofinal_sti.Adapters.FavoriteBusAdapter;
-import com.example.andresteran_i014213.projectofinal_sti.Data.DataUser;
-import com.example.andresteran_i014213.projectofinal_sti.LoginActivity;
-import com.example.andresteran_i014213.projectofinal_sti.Models.Car;
-import com.example.andresteran_i014213.projectofinal_sti.R;
+import com.example.ricardo_i028113.appemas.Adapters.FavoriteBusAdapter;
+import com.example.ricardo_i028113.appemas.Data.DataUser;
+import com.example.ricardo_i028113.appemas.LoginActivity;
+import com.example.ricardo_i028113.appemas.Models.Car;
+import com.example.ricardo_i028113.appemas.R;;
 
 import java.util.List;
 

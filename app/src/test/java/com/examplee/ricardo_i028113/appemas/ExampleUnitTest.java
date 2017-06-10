@@ -1,8 +1,8 @@
-package com.example.andresteran_i014213.projectofinal_sti;
+package com.examplee.ricardo_i028113.appemas;
 
 import org.junit.Test;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertEquals;
 
 /**
  * Example local unit test, which will execute on the development machine (host).

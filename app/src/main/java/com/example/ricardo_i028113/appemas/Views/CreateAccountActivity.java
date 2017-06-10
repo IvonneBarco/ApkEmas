@@ -1,4 +1,4 @@
-package com.example.andresteran_i014213.projectofinal_sti.Views;
+package com.example.ricardo_i028113.appemas.Views;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
@@ -7,16 +7,12 @@ import android.support.v7.widget.Toolbar;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
-import android.widget.ListView;
 import android.widget.Toast;
 
-import com.example.andresteran_i014213.projectofinal_sti.Adapters.UserAdapter;
-import com.example.andresteran_i014213.projectofinal_sti.Data.DataUser;
-import com.example.andresteran_i014213.projectofinal_sti.LoginActivity;
-import com.example.andresteran_i014213.projectofinal_sti.Models.User;
-import com.example.andresteran_i014213.projectofinal_sti.R;
-
-import java.util.List;
+import com.example.ricardo_i028113.appemas.Data.DataUser;
+import com.example.ricardo_i028113.appemas.LoginActivity;
+import com.example.ricardo_i028113.appemas.Models.User;
+import com.example.ricardo_i028113.appemas.R;;
 
 public class CreateAccountActivity extends AppCompatActivity {
 

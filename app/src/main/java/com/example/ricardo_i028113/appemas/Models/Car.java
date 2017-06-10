@@ -1,6 +1,4 @@
-package com.example.andresteran_i014213.projectofinal_sti.Models;
-
-import java.util.PriorityQueue;
+package com.example.ricardo_i028113.appemas.Models;
 
 /**
  * Created by kenet on 27/05/2017.

@@ -1,4 +1,4 @@
-package com.example.andresteran_i014213.projectofinal_sti.Adapters;
+package com.example.ricardo_i028113.appemas.Adapters;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -9,9 +9,9 @@ import android.widget.CheckBox;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.example.andresteran_i014213.projectofinal_sti.Models.Car;
-import com.example.andresteran_i014213.projectofinal_sti.R;
-import com.example.andresteran_i014213.projectofinal_sti.Views.Fragments.SearchFragment;
+import com.example.ricardo_i028113.appemas.Models.Car;
+import com.example.ricardo_i028113.appemas.R;
+import com.example.ricardo_i028113.appemas.Views.Fragments.SearchFragment;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.andresteran_i014213.projectofinal_sti">
+    package="com.example.ricardo_i028113.appemas">
 
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="android.permission.INTERNET" />
@@ -28,13 +28,6 @@
             android:name=".Views.CreateAccountActivity"
             android:parentActivityName=".LoginActivity"></activity>
         <activity android:name=".Views.ContainerActivity"></activity>
-
-        <meta-data
-            android:name="com.google.android.gms.version"
-            android:value="@integer/google_play_services_version"/>
-        <meta-data
-            android:name="com.google.android.maps.v2.API_KEY"
-            android:value="AIzaSyBiMTItprcu8WCb1eYYmrL9p0TNGtmGM74"/>
 
     </application>
 

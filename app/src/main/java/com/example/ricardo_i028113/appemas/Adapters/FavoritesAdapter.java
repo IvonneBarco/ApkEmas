@@ -1,4 +1,4 @@
-package com.example.andresteran_i014213.projectofinal_sti.Adapters;
+package com.example.ricardo_i028113.appemas.Adapters;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -7,8 +7,8 @@ import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 import android.widget.TextView;
 
-import com.example.andresteran_i014213.projectofinal_sti.Models.Favorites;
-import com.example.andresteran_i014213.projectofinal_sti.R;
+import com.example.ricardo_i028113.appemas.Models.Favorites;
+import com.example.ricardo_i028113.appemas.R;;
 
 import java.util.ArrayList;
 import java.util.List;

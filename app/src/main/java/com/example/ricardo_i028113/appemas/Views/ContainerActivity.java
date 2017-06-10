@@ -1,14 +1,14 @@
-package com.example.andresteran_i014213.projectofinal_sti.Views;
+package com.example.ricardo_i028113.appemas.Views;
 
 import android.support.annotation.IdRes;
 import android.support.v4.app.FragmentTransaction;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-import com.example.andresteran_i014213.projectofinal_sti.R;
-import com.example.andresteran_i014213.projectofinal_sti.Views.Fragments.HomeFragment;
-import com.example.andresteran_i014213.projectofinal_sti.Views.Fragments.ProfileFragment;
-import com.example.andresteran_i014213.projectofinal_sti.Views.Fragments.SearchFragment;
+import com.example.ricardo_i028113.appemas.R;;
+import com.example.ricardo_i028113.appemas.Views.Fragments.HomeFragment;
+import com.example.ricardo_i028113.appemas.Views.Fragments.ProfileFragment;
+import com.example.ricardo_i028113.appemas.Views.Fragments.SearchFragment;
 import com.roughike.bottombar.BottomBar;
 import com.roughike.bottombar.OnTabSelectListener;
 

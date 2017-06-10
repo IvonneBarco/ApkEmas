@@ -5,7 +5,7 @@
     android:id="@+id/activity_create_account"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.andresteran_i014213.projectofinal_sti.Views.CreateAccountActivity">
+    tools:context="com.example.ricardo_i028113.appemas.Views.CreateAccountActivity">
 
     <include layout="@layout/actionbar_toolbar"/>
 

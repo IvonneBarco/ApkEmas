@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    tools:context="com.example.andresteran_i014213.projectofinal_sti.Views.Fragments.ProfileFragment">
+    tools:context="com.example.ricardo_i028113.appemas.Views.Fragments.ProfileFragment">
 
     <include layout="@layout/actionbar_toolbar"/>
 

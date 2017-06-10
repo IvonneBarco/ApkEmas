@@ -1,4 +1,4 @@
-package com.example.andresteran_i014213.projectofinal_sti;
+package com.example.ricardo_i028113.appemas;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
